@@ -1,0 +1,25 @@
+{
+  "name": "london-lab",
+  "version": "1.0.0",
+  "description": "meh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaneStephens/npm-lab-london-web-091619.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaneStephens/npm-lab-london-web-091619/issues"
+  },
+  "homepage": "https://github.com/KaneStephens/npm-lab-london-web-091619#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
